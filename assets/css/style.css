@@ -1,0 +1,34 @@
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+
+.title{
+    height: 100px;
+    width: 900px;
+    color: forestgreen;
+    background-image: url('https://wallpaper-gallery.net/images/triforce-background/triforce-background-23.jpg')
+}
+
+
+
+
+
+.words{
+    background-color:greenyellow;
+    font-weight: bold;
+    padding: 10px;
+}
+
+body {background-color:forestgreen;
+    background-image: url('http://thefoxisblack.com/desktop-wallpaper/jolby-always-with-honor-wallpaper-1280x800.jpg')}
+
+
+.quest{
+    background-color: brown;
+    width: 900px;
+    height: 40px;
+}
